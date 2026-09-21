@@ -42,3 +42,25 @@ Sahara AI | Social Media and Community Manager (Web3 | AI) | https://jobs.ashbyh
 Sahara AI | Community Lead | https://jobs.ashbyhq.com/Sahara/98c56c28-1dd7-468b-972b-34440bc8e3ab | 2026-09-17
 Together AI | Demand Generation and Growth Marketing Director | https://job-boards.greenhouse.io/togetherai/jobs/4797331007 | 2026-09-17
 Perplexity | Demand Generation Lead | https://jobs.ashbyhq.com/perplexity/2be717cb-ad3e-4052-a464-79b107a70406 | 2026-09-17
+Anthropic | Head of Community, Enterprise Marketing | https://job-boards.greenhouse.io/anthropic/jobs/5388719008 | 2026-09-21
+Anthropic | Senior Marketing Events Manager, Partners | https://job-boards.greenhouse.io/anthropic/jobs/5100626008 | 2026-09-21
+Anthropic | Marketing Events Manager, International | https://job-boards.greenhouse.io/anthropic/jobs/5424288008 | 2026-09-21
+OpenAI | Integrated Marketing Manager, ChatGPT | https://jobs.ashbyhq.com/openai/58f32cbe-8c68-415c-bb7f-b6fca4b29ffc | 2026-09-21
+OpenAI | Partner Marketing Lead, Growth | https://jobs.ashbyhq.com/openai/c742a67e-f1b1-494d-8da7-5e6a6f80e655/application | 2026-09-21
+OpenAI | Partner Marketing Manager, Technology Partners & ISVs | https://jobs.ashbyhq.com/openai/333ebd68-cc1d-4706-8d0a-07f3e50d7bfd | 2026-09-21
+OpenAI | Partner Marketing Manager, AWS | https://openai.com/careers/partner-marketing-manager-aws-san-francisco/ | 2026-09-21
+OpenAI | Partner Marketing Manager, GCP & Oracle | https://www.dreamworkhq.com/job/3c7c9449-0769-42e8-9ae9-f330b60fde83 | 2026-09-21
+OpenAI | Growth Marketing Manager, SMB Ads | https://jobs.ashbyhq.com/openai/dc503400-f7a8-4ad4-b50b-b33d2d12cc2d | 2026-09-21
+OpenAI | Growth Lead, SMB Ads | https://jobs.ashbyhq.com/openai/b74dd90d-0b05-46e6-b30b-5ba9e8f33288 | 2026-09-21
+OpenAI | Growth Marketing, Creative System and Optimization | https://jobs.ashbyhq.com/openai/02ee1352-9c8f-4efc-8127-d8f4eaed4474/application | 2026-09-21
+ElevenLabs | B2B Marketing - Middle East | https://jobs.ashbyhq.com/elevenlabs/575f2f4f-e836-441c-82f5-b477f52123c0 | 2026-09-21
+ElevenLabs | B2B Product Marketing - Productions Growth | https://jobs.ashbyhq.com/elevenlabs/ae123687-766d-4007-bda8-fa89ecaeac69 | 2026-09-21
+Wispr Flow | Growth Generalist (India) | https://in.linkedin.com/jobs/view/growth-generalist-india-at-wispr-flow-4379626028 | 2026-09-21
+Wispr Flow | B2B Marketing Lead | https://jobs.ashbyhq.com/wispr-flow/92221cc5-5d02-4431-9633-fc07c2539790 | 2026-09-21
+Mistral AI | Senior Product Marketing Manager - Studio | https://jobs.lever.co/mistral/8f3566b9-8165-46e1-899f-f37f8fe35ab5 | 2026-09-21
+Mistral AI | Strategic Partner Lead, SAP | https://jobs.lever.co/mistral/03e85b97-a91d-46e9-afa4-77945235277a | 2026-09-21
+Mistral AI | AI Developer Advocate | https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | 2026-09-21
+Mistral AI | AI Developer Advocate - Singapore | https://jobs.lever.co/mistral/3e8b03e7-ff33-4cd1-8042-90b7ac3c4683 | 2026-09-21
+Perplexity | Creator & Influencer Marketing Lead | https://jobs.ashbyhq.com/perplexity/457d84e7-6a36-4499-ae61-db92a2c404b9 | 2026-09-21
+Perplexity | Product Marketing Manager, Partnerships | https://jobs.ashbyhq.com/perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064 | 2026-09-21
+Together AI | Sr. Partnerships Manager, Model Ecosystem | https://job-boards.greenhouse.io/togetherai/jobs/5100639007 | 2026-09-21
