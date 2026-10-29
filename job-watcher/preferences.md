@@ -11,3 +11,4 @@
     * Size signal (unchanged): still skip $500M+ total raised OR 500+ employees.
     * Window (unchanged): announced within last ~2–3 weeks of run date.
     * Table format unchanged (Company | Total Raised | Round | Announce Date | One-liner | Website | Founder LinkedIn/X). Add a "Sector" and/or "HQ" note in the one-liner so geography/vertical is visible at a glance.
+- (2026-10-29) Learning: aggregators/trackers occasionally disagree on a company's HQ city/country outright (not just stage/date) — e.g. one run found a company whose own press release said Austin, TX but one aggregator (af.net) labeled it New Delhi, India. Given the hard India-exclusion rule, treat an unresolved HQ conflict the same as an unresolved stage/date conflict: don't guess either way — exclude and flag it explicitly for Viivek rather than silently including or dropping.
